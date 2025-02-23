@@ -1,4 +1,0 @@
-#!/bin/bash
-FIRST_NAME= Geovanna
-LAST_NAME= Prado
-echo Hello $FIRST_NAME $LAST_NAME
