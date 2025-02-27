@@ -1,0 +1,7 @@
+Neste vídeo é apresentado o conceito de Big-O: 
+
+Ele serve para dizer o quão eficiente é o meu código e com ele roda.
+
+O(1)- Constante: Por meio dele é possível pegar um algoritmo e trasnforma-lo em constante.
+O(N)- Linear: Por meio dele é possível ter um algoritmo que cresce de forma linear, a partir de uma quantidade N de dados. 
+O(N^2)- Quadratico: Por meio dele é possível ter um algoritmo que cresce de forma exponencial (a partir da quantidade N de dados), porém ele é ineficiente. 
