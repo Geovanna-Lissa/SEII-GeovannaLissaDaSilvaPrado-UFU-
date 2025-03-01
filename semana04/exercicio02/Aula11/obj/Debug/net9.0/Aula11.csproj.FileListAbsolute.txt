@@ -1,0 +1,14 @@
+C:\Users\Geovanna\OneDrive\Semana04\Exercício02\Aula11\bin\Debug\net9.0\Aula11.exe
+C:\Users\Geovanna\OneDrive\Semana04\Exercício02\Aula11\bin\Debug\net9.0\Aula11.deps.json
+C:\Users\Geovanna\OneDrive\Semana04\Exercício02\Aula11\bin\Debug\net9.0\Aula11.runtimeconfig.json
+C:\Users\Geovanna\OneDrive\Semana04\Exercício02\Aula11\bin\Debug\net9.0\Aula11.dll
+C:\Users\Geovanna\OneDrive\Semana04\Exercício02\Aula11\bin\Debug\net9.0\Aula11.pdb
+C:\Users\Geovanna\OneDrive\Semana04\Exercício02\Aula11\obj\Debug\net9.0\Aula11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Geovanna\OneDrive\Semana04\Exercício02\Aula11\obj\Debug\net9.0\Aula11.AssemblyInfoInputs.cache
+C:\Users\Geovanna\OneDrive\Semana04\Exercício02\Aula11\obj\Debug\net9.0\Aula11.AssemblyInfo.cs
+C:\Users\Geovanna\OneDrive\Semana04\Exercício02\Aula11\obj\Debug\net9.0\Aula11.csproj.CoreCompileInputs.cache
+C:\Users\Geovanna\OneDrive\Semana04\Exercício02\Aula11\obj\Debug\net9.0\Aula11.dll
+C:\Users\Geovanna\OneDrive\Semana04\Exercício02\Aula11\obj\Debug\net9.0\refint\Aula11.dll
+C:\Users\Geovanna\OneDrive\Semana04\Exercício02\Aula11\obj\Debug\net9.0\Aula11.pdb
+C:\Users\Geovanna\OneDrive\Semana04\Exercício02\Aula11\obj\Debug\net9.0\Aula11.genruntimeconfig.cache
+C:\Users\Geovanna\OneDrive\Semana04\Exercício02\Aula11\obj\Debug\net9.0\ref\Aula11.dll
