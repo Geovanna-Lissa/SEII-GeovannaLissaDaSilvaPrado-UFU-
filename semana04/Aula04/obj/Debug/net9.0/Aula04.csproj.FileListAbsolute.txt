@@ -1,0 +1,14 @@
+C:\Users\Geovanna\OneDrive\Semana04\Exercício02\Aula04\obj\Debug\net9.0\Aula04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Geovanna\OneDrive\Semana04\Exercício02\Aula04\obj\Debug\net9.0\Aula04.AssemblyInfoInputs.cache
+C:\Users\Geovanna\OneDrive\Semana04\Exercício02\Aula04\obj\Debug\net9.0\Aula04.AssemblyInfo.cs
+C:\Users\Geovanna\OneDrive\Semana04\Exercício02\Aula04\obj\Debug\net9.0\Aula04.csproj.CoreCompileInputs.cache
+C:\Users\Geovanna\OneDrive\Semana04\Exercício02\Aula04\bin\Debug\net9.0\Aula04.exe
+C:\Users\Geovanna\OneDrive\Semana04\Exercício02\Aula04\bin\Debug\net9.0\Aula04.deps.json
+C:\Users\Geovanna\OneDrive\Semana04\Exercício02\Aula04\bin\Debug\net9.0\Aula04.runtimeconfig.json
+C:\Users\Geovanna\OneDrive\Semana04\Exercício02\Aula04\bin\Debug\net9.0\Aula04.dll
+C:\Users\Geovanna\OneDrive\Semana04\Exercício02\Aula04\bin\Debug\net9.0\Aula04.pdb
+C:\Users\Geovanna\OneDrive\Semana04\Exercício02\Aula04\obj\Debug\net9.0\Aula04.dll
+C:\Users\Geovanna\OneDrive\Semana04\Exercício02\Aula04\obj\Debug\net9.0\refint\Aula04.dll
+C:\Users\Geovanna\OneDrive\Semana04\Exercício02\Aula04\obj\Debug\net9.0\Aula04.pdb
+C:\Users\Geovanna\OneDrive\Semana04\Exercício02\Aula04\obj\Debug\net9.0\Aula04.genruntimeconfig.cache
+C:\Users\Geovanna\OneDrive\Semana04\Exercício02\Aula04\obj\Debug\net9.0\ref\Aula04.dll
